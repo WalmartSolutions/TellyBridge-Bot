@@ -10,5 +10,5 @@ Idk what that even is bruh. Someone just sent it to me so im uploading it.
 3000IQPlay - Removing 3 insane non obfuscated server list checks <br>
 
 # Commands
-/bind <bind>
-/delay 1-4
+/bind <bind> <br>
+/delay 1-4 <br>
